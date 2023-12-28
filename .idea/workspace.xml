@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40b87abf-2748-4a27-a874-03d2c3e2f893" name="Changes" comment="first" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tasks/ts" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2V4lJ00oyBPindlC0AVrbkJfmIT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.2-arr-sort.js.executor": "Run",
+    "Node.js.2_binary_search.js.executor": "Run",
+    "Node.js.321.executor": "Debug",
+    "Node.js.8_matrix_smeznosti.js.executor": "Run",
+    "Node.js.arr^arr.js.executor": "Run",
+    "Node.js.buy-sell.js.executor": "Run",
+    "Node.js.check maze.js.executor": "Run",
+    "Node.js.classNames.js.executor": "Run",
+    "Node.js.kv-arr.js.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "<unknown>",
+    "last_opened_file_path": "/Users/kamel.utegenogmail.com/WebstormProjects/algs_and_structures_course/tasks",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "/Users/kamel.utegenogmail.com/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tasks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algs-ulbi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.321">
+    <configuration name="2-arr-sort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/tasks/2-arr-sort.js" working-dir="$PROJECT_DIR$/tasks">
+      <method v="2" />
+    </configuration>
+    <configuration name="2_binary_search.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/algs-ulbi/2_binary_search.js" working-dir="$PROJECT_DIR$/algs-ulbi">
+      <method v="2" />
+    </configuration>
+    <configuration name="321" type="NodeJSConfigurationType" temporary="true" path-to-js-file="8_matrix_smeznosti.js" working-dir="$PROJECT_DIR$/algs-ulbi">
+      <method v="2" />
+    </configuration>
+    <configuration name="arr^arr.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/tasks/arr^arr.js" working-dir="$PROJECT_DIR$/tasks">
+      <method v="2" />
+    </configuration>
+    <configuration name="kv-arr.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/tasks/kv-arr.js" working-dir="$PROJECT_DIR$/tasks">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.321" />
+        <item itemvalue="Node.js.2_binary_search.js" />
+        <item itemvalue="Node.js.2-arr-sort.js" />
+        <item itemvalue="Node.js.arr^arr.js" />
+        <item itemvalue="Node.js.kv-arr.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40b87abf-2748-4a27-a874-03d2c3e2f893" name="Changes" comment="" />
+      <created>1694103157788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694103157788</updated>
+      <workItem from="1694103159039" duration="5869000" />
+      <workItem from="1695574625007" duration="813000" />
+      <workItem from="1701295134118" duration="1288000" />
+      <workItem from="1701442008678" duration="6703000" />
+      <workItem from="1701463801477" duration="14744000" />
+      <workItem from="1701605217196" duration="13550000" />
+      <workItem from="1701778975144" duration="293000" />
+      <workItem from="1701845487351" duration="3967000" />
+      <workItem from="1701870633966" duration="1509000" />
+      <workItem from="1701877468849" duration="5389000" />
+      <workItem from="1702151435880" duration="9382000" />
+      <workItem from="1702245711001" duration="599000" />
+      <workItem from="1702397803413" duration="1248000" />
+      <workItem from="1702496416669" duration="3691000" />
+      <workItem from="1702566746733" duration="6347000" />
+      <workItem from="1702829587113" duration="5029000" />
+      <workItem from="1702898763494" duration="80000" />
+      <workItem from="1702933946221" duration="3781000" />
+      <workItem from="1703013949729" duration="15034000" />
+      <workItem from="1703254368960" duration="1000" />
+      <workItem from="1703254376709" duration="28933000" />
+      <workItem from="1703488104348" duration="4146000" />
+      <workItem from="1703541265193" duration="391000" />
+      <workItem from="1703585861561" duration="29603000" />
+      <workItem from="1703801509841" duration="189000" />
+      <workItem from="1703801769407" duration="426000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/tasks/ts/kv-arr.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+</project>
